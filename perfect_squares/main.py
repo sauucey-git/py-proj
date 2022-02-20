@@ -15,5 +15,5 @@ def nextPerfectSquare(n) -> int:
             return i
         
         
-print(nextPerfectSquare(20))
+print(nextPerfectSquare(885))
     
