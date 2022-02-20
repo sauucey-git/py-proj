@@ -1,5 +1,6 @@
 # Simple program that prins Collatz sequence
 def run(n):
+    # Checking if param is an int or a string of numbers
     try:
         n = int(n)
     except ValueError:
@@ -9,6 +10,7 @@ def run(n):
     counter = 0
     print(f"{counter}: {n}")
     
+    # Looping through the sequence
     while n != 1:     
         if n % 2 == 0:
             n /= 2
