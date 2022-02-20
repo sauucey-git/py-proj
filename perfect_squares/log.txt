@@ -1,0 +1,8 @@
+Perfect square 25 bigger than 21
+Perfect square 4 bigger than 2
+Perfect square 784 bigger than 736
+Perfect square 76176 bigger than 75745
+Perfect square 64 bigger than 56
+Perfect square 961 bigger than 909
+Perfect square 441 bigger than 421
+Perfect square 215296 bigger than 214763
